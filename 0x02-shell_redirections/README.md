@@ -1,2 +1,1 @@
-#!/bin/bash
-"why"
+my 0x02-shell_redirections 
